@@ -1,7 +1,7 @@
 # Enhancing_Text_To_Image_Generation
 Enhancing_Text_to_Image_Generation_via_Prompt_Expansion_with_Multimodal_Language_Models
 
-# 📊 Dataset Preparation: Text–Image Pairs for Prompt Expansion
+# Dataset Source: Text–Image Pairs for Prompt Expansion (Final data file is in the code, below are downloadable orignal sourc links for data)
 
 This dataset is used for the research project titled: **"Enhancing Text-to-Image Generation via Prompt Expansion with Multimodal Language Models"**
 
