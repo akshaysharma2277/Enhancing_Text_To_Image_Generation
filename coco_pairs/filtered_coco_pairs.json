@@ -1,0 +1,1602 @@
+[
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000025470.jpg",
+    "caption": "A kitchen with brown cabinets, tile backsplash, and grey counters."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000513461.jpg",
+    "caption": "A surfer, a woman, and a child walk on the beach."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000285579.jpg",
+    "caption": "A person, protected from the rain by their umbrella, walks down the road."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000226658.jpg",
+    "caption": "Two women preparing food in a kitchen, one at the sink and one at the table"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000314265.jpg",
+    "caption": "A toilet, sink, bathtub with shower, mirror and cabinet"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000299675.jpg",
+    "caption": "A kitchen with a tile floor has cabinets with no doors, a dishwasher, a sink, and a refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000266366.jpg",
+    "caption": "A clean, mediocre motel bathroom with a nice sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000101891.jpg",
+    "caption": "Bicycles, cars and a trash can in a garage."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000503598.jpg",
+    "caption": "A kitchen sink, counter, pots, and a dog dish."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000330238.jpg",
+    "caption": "Many skiiers are gathered at the base of a hill, while several travel down it."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000543882.jpg",
+    "caption": "A buffet table at a restaurant, covered with food."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000279939.jpg",
+    "caption": "A bathroom contains a toilet, sink, and bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000002448.jpg",
+    "caption": "A kitchen counter with chairs, refrigerator, and cupboards."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000253464.jpg",
+    "caption": "A mid sized bathroom with toilette, shower and vanity mirror above a sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000480545.jpg",
+    "caption": "A small bathroom containing a step, toilette and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000376047.jpg",
+    "caption": "A picture of some appliances stove, dishwasher, refridgerator and microwave, in a kitchen."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000520049.jpg",
+    "caption": "A man on an old-fashioned bicycle, biking across a bridge."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000476220.jpg",
+    "caption": "A small kitchen with sink, stove and refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000471895.jpg",
+    "caption": "A bathroom featuring an oddly shaped toilette, shower and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000579846.jpg",
+    "caption": "A hall opening onto a bathroom, bedroom, and two other rooms."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000189278.jpg",
+    "caption": "There are two ovens in a kitchen restaurant, and one of them is being used."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000056972.jpg",
+    "caption": "A bathroom with a sink, cabinet, mirror and picture."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000466800.jpg",
+    "caption": "Different types of tiles are on the walls, floor and tub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000170045.jpg",
+    "caption": "A woman stands in the kitchen, surrounded by wood cabinets and stainless steel appliances."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000461221.jpg",
+    "caption": "A kitchen, with sink, stove, and a white cabinet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000416909.jpg",
+    "caption": "A clean bathroom with sink, toilet and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000416565.jpg",
+    "caption": "A small wood paneled bathroom with a sink, mirror and toilette."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000161657.jpg",
+    "caption": "The overhead view of a tiled bathroom  with a tub, shower, toilet, bidet, and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000213532.jpg",
+    "caption": "Two children sitting down, one with his arm over the other."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000256950.jpg",
+    "caption": "The restaurant kitchen is highly lit, displaying the colorful bowls."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000210082.jpg",
+    "caption": "A bathroom scene with open double doors, double sinks and a bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000565906.jpg",
+    "caption": "A clean bathroom toilet, shower, and sink with a tiled floor."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000422774.jpg",
+    "caption": "A fountain in the middle of town, with places to sit nearby."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000573518.jpg",
+    "caption": "A computer keyboard, with black keys and white lettering."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000079143.jpg",
+    "caption": "A light is on in an empty, clean bathroom."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000334790.jpg",
+    "caption": "A young man performing a trick on a skateboard,"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000350553.jpg",
+    "caption": "A woman walking a bike, while a bus passes by."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000239644.jpg",
+    "caption": "A woman with a dog on a leash, a bike, and a fancy outfit."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000166130.jpg",
+    "caption": "A small with white appliances, cupboards and floor."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000549575.jpg",
+    "caption": "unused kitchen stove, sink and counter topsand cabinettes"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000526165.jpg",
+    "caption": "A man and woman celebrating a special occasion, about to blow out a candle."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000012459.jpg",
+    "caption": "Skiers are all bundled up, one person is wearing a cow suit."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000445573.jpg",
+    "caption": "An antique kitchen with a table, sink, stove and a fridge."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000293763.jpg",
+    "caption": "In a small bathroom, the toilet is beside the sink"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000360871.jpg",
+    "caption": "A kitchen with a microwave, refrigerator, and sink"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000292927.jpg",
+    "caption": "The corner of a kitchen showing a dishwasher, sink and household items."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000362278.jpg",
+    "caption": "Two pictures of an orange and white bathroom with toilet, shower stall, and counter/sink area."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000226517.jpg",
+    "caption": "A kitchen with wooden drawers, table, chairs and stone counter tops."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000063943.jpg",
+    "caption": "A street that has been blocked off and a tree is down, covering the street."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000141065.jpg",
+    "caption": "A bathroom with a toilette, sink and bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000017866.jpg",
+    "caption": "A bathroom with, blue shower curtains, a toilet, and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000313798.jpg",
+    "caption": "People preparing food surrounded by many bowls, buckets and baskets."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000013279.jpg",
+    "caption": "The United States Postal Service delivers mail regardless of the weather, in this case, deep snow."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000458592.jpg",
+    "caption": "A bathroom with a toilet, sink, and mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000440827.jpg",
+    "caption": "A large bathroom with a huge mirror, bathtub and toilet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000511577.jpg",
+    "caption": "A narrow bathroom with a sink, shower and toilet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000053803.jpg",
+    "caption": "There are cars, a motorbike and a bike on the parking lot."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000505980.jpg",
+    "caption": "A young man in bathroom, looking at an image of himself in mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000418409.jpg",
+    "caption": "A woman sitting on a couch, looking at a lap top computer."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000451922.jpg",
+    "caption": "A bathroom featuring a tile design, including the shower and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000518415.jpg",
+    "caption": "A bathroom showing toilet, shower, sink and vanity."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000133329.jpg",
+    "caption": "A bathroom featuring the shower, toilet, sink and vanity."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000497528.jpg",
+    "caption": "A stove that is open on the bottom, with dishes in it."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000070755.jpg",
+    "caption": "Toothbrushes, toothpaste, and mouthwash cups draining upside down."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000510638.jpg",
+    "caption": "Interior photo showing a toilet, desk and chair and objects hanging on the walls."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000298081.jpg",
+    "caption": "A kitchen equipped with refrigerator, stove, microwave and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000161486.jpg",
+    "caption": "An empty kitchen with white appliances, counters, and cupboards."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000092714.jpg",
+    "caption": "A bathroom with a sink mirror, and toilet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000411238.jpg",
+    "caption": "A street scene of people walking, cyclists, and motor vehicles."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000450904.jpg",
+    "caption": "A bathroom with a wall mounted toilet and sink, photographed from outside a window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000082003.jpg",
+    "caption": "A kitchen cupboard above a counter, holding dishes."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000109588.jpg",
+    "caption": "An empty bottle, two glasses, a glass cube and a plate sit on a counter."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000249470.jpg",
+    "caption": "A kitchen with wood and white cabinets, a stove and refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000264434.jpg",
+    "caption": "A small, clean bathroom with the toilet seat down, but the lid is up."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000283996.jpg",
+    "caption": "A bathroom with a tub and a sink, a picture on the wall over the tub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000103861.jpg",
+    "caption": "A bathroom with a toilet, sink, and bath."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000257392.jpg",
+    "caption": "A mother carries a dish to the sink, and a young man carries a beer bottle toward a counter, as a young girl looks on."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000047434.jpg",
+    "caption": "a toilet, sink, mirror and bathtub in a bathroom"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000109164.jpg",
+    "caption": "A bathroom for a doll house with a bathtub, toilet, cabinet and painted tiles."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000463619.jpg",
+    "caption": "A kitchen containing white cabinets, white appliances and beige counters."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000165499.jpg",
+    "caption": "Bathroom that has a toilet, shower, and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000515106.jpg",
+    "caption": "A table and chairs covered with plates, bowls and a basket."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000382924.jpg",
+    "caption": "A kitchen scene with a fridge, oven, and microwave."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000480728.jpg",
+    "caption": "A bus and a van next to each other in foreign country,"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000199946.jpg",
+    "caption": "A kitchen with counter tops, cabinets, a sink, and an oven is next to a living room."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000184435.jpg",
+    "caption": "An old, periwinkle blue toilet sits without a lid."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000210597.jpg",
+    "caption": "Inside there is a small kitchen and couch, with clutter, viewed through a lens."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000304078.jpg",
+    "caption": "There is an empty cupboard in the corner near the kitchen sink, between two windows."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000476642.jpg",
+    "caption": "A white toilet, sink and shower stand in a bathroom."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000448077.jpg",
+    "caption": "A rustic, outdoor oven surrounded by pots and bowls."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000211968.jpg",
+    "caption": "Small bathroom with sink, bath tub, and a chair by the window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000253521.jpg",
+    "caption": "An older, dirty bathroom has a large shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000113437.jpg",
+    "caption": "A view of a bathroom with a mirror, lights, and sink visible."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000202601.jpg",
+    "caption": "The men are talking on a sidewalk under a streetlight,  in view of a child's bike with a broken training wheel."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000465047.jpg",
+    "caption": "A bicyclists with a back pack riding in the street, not in a bike path."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000504744.jpg",
+    "caption": "A banana, oranges and apples in a bowl."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000157342.jpg",
+    "caption": "Seven oranges in a blue and white bowl,"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000440444.jpg",
+    "caption": "Kitchen with white cabinets, black drawer and door pulls and stainless steal appliances."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000449310.jpg",
+    "caption": "A kitchen with stools, a white refrigerator and a microwave oven."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000369596.jpg",
+    "caption": "A bathroom remodel in process with a new large tub and flooring, the toilet still in the tub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000457888.jpg",
+    "caption": "Two children playing in the grass, with animals grazing in the background."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000129310.jpg",
+    "caption": "A bathroom with blue walls and a pink tub, toilet, and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000523981.jpg",
+    "caption": "Shelves filled with pots, pans, and cooking utensils."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000525510.jpg",
+    "caption": "City street with various vehicles and several traffic lights, mountains in the background"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000168730.jpg",
+    "caption": "A kitchen contains white cabinets, a white microwave, and a white fridge."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000460094.jpg",
+    "caption": "A filthy bathroom full of debris, broken glass, and grime."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000315609.jpg",
+    "caption": "An oven, fridge and cabinets in an empty kitchen."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000514514.jpg",
+    "caption": "Black and white striped bathroom with a toilet, sink, and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000181771.jpg",
+    "caption": "Brightly colored kitchen with wooden floors, large images on wall, and small island."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000102320.jpg",
+    "caption": "A clean bathroom with a toilet, tub, and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000515870.jpg",
+    "caption": "A white bathroom with a sink, mirror, toilet, and bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000028889.jpg",
+    "caption": "Two guys talking while standing near a parking meter,"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000360870.jpg",
+    "caption": "The people working in the kitchen are looking at something on the other side of the counter, that is lined with plates, glasses, and cooking utensils."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000308251.jpg",
+    "caption": "A young lady with one arm in a sling, stands in the bathroom."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000104800.jpg",
+    "caption": "A woman stands, straddling her bike, while a little dog sits in a basket on the handle bars."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000047418.jpg",
+    "caption": "A small bathroom has a sink, mirror and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000564451.jpg",
+    "caption": "A small kitchen with window, cabinets, sink and table."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000104127.jpg",
+    "caption": "a bathroom with a toilet, sink and window with the curtain open"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000134430.jpg",
+    "caption": "A large tiled bathroom with a shelf of towels, small sink, mirror, rug, and shower curtain."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000560976.jpg",
+    "caption": "A toilet next to a toilet bowl brush cleaner, a shower curtain and wooden door."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000232375.jpg",
+    "caption": "A view of a small bathroom with a shower, toilet, and sink"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000186671.jpg",
+    "caption": "A kitchen with a stainless steel stove, microwave and refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000352398.jpg",
+    "caption": "Kitchen with blue walls, a stove, and a white door."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000525180.jpg",
+    "caption": "Three people in a kitchen with aprons, plates a stove and a fan."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000166403.jpg",
+    "caption": "A bathroom with a toilet, wooden blinds a bathtub and shower curtain."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000533441.jpg",
+    "caption": "Many people are at a sandy beach, some of which are carrying surfboards."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000174802.jpg",
+    "caption": "A bathroom showing a toilet, toilet paper, and biohazard sign."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000336569.jpg",
+    "caption": "A kitchen with wooden cabinets, a stove and one floor vent."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000077842.jpg",
+    "caption": "a white bathroom with a sink, mirror and trash basket."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000519369.jpg",
+    "caption": "A toilet, shower, and sink in a bathroom."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000546343.jpg",
+    "caption": "a kitchen with granite counter tops, steel appliances and wooden stools."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000263734.jpg",
+    "caption": "A kitchen with a fridge, sink, and several cabinets."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000152099.jpg",
+    "caption": "a wall rack holding pots, pans, and oven pot holders."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000425817.jpg",
+    "caption": "A woman squats, cooking over an open fire in a rustic kitchen."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000427493.jpg",
+    "caption": "a kitchen with a wooden counter, black stools, and a steel refrigerator and stove."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000494599.jpg",
+    "caption": "A person stands in a darkened bathroom, looking toward the floor."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000049581.jpg",
+    "caption": "Light shines in a bathroom, with white toilet, sink, and bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000190187.jpg",
+    "caption": "This open floor plan has a refrigerator and area rug, but little other furniture."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000224895.jpg",
+    "caption": "A picture of a bathroom with a toilet, a sink, and a bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000524695.jpg",
+    "caption": "A bathroom contains two sinks, a mirror, and a shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000049592.jpg",
+    "caption": "People enjoy biking, sitting, and swimming on and in the beach."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000119114.jpg",
+    "caption": "A lit bathroom shows sink, shower, and toilet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000195583.jpg",
+    "caption": "The bathroom has a sink, mirror, toilet, and tile floor."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000435809.jpg",
+    "caption": "A kitchen with a steel refrigerator, stove and oven and a metal smoke chute above the stove."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000484304.jpg",
+    "caption": "A bathroom with white tiles, a mirror, a sink, and toilet"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000124142.jpg",
+    "caption": "A kitchen with a blender, microwave, toaster and refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000244367.jpg",
+    "caption": "An espresso machine, coffee cup, measuring cup and coffee on counter."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000276913.jpg",
+    "caption": "A small kitchen with a window, sink and oven."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000467038.jpg",
+    "caption": "People walking, people riding skateboards on the sidewalk, cars, buildings and lamp poles in the city at night."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000401777.jpg",
+    "caption": "a bathroom with a long sink, two faucets and two mirrors."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000258026.jpg",
+    "caption": "Kitchen view with stainless stove and refrigerator, beige cabinets."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000540795.jpg",
+    "caption": "A white bathroom toilet, sink, and folded towels."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000279041.jpg",
+    "caption": "Room with large mirror, bench and wash tub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000114979.jpg",
+    "caption": "A woman brushing her teeth, while a man takes a picture behind her."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000302618.jpg",
+    "caption": "A tiled bathroom with sink, bathtub and shower is shown."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000545160.jpg",
+    "caption": "A modern kitchen incorporates elements of stainless appliances, butcher block counters and an above cabinet nook for interesting collectibles."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000501773.jpg",
+    "caption": "A bathroom with a window, tub and shower door."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000513609.jpg",
+    "caption": "White bathroom with a sink, a towel bar and mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000069616.jpg",
+    "caption": "A cat tired to a door area with a blue bag over it, with a bike in the front view"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000176174.jpg",
+    "caption": "A kitchen and dining room are featured along with a large dining room table, kitchen appliances and a chandelier."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000087126.jpg",
+    "caption": "A modern kitchen features an island with glass panels, white cabinetry, a black refrigerator and a small window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000253435.jpg",
+    "caption": "A bathroom features a door with a window, a towel rack, a stack of towls and cabinets."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000208886.jpg",
+    "caption": "A bathroom with a large mirror, window an dtub"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000543717.jpg",
+    "caption": "A small, brightly lit building in a dark area."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000185884.jpg",
+    "caption": "Most kids are sitting down while riding a bus, but one child wearing a striped shirt is standing."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000246307.jpg",
+    "caption": "Small kitchen with a burner, table top space, and a small garbage can."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000006647.jpg",
+    "caption": "A kitchen with a stove, grill, and ovens."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000049801.jpg",
+    "caption": "A very funky, wildly decorated car has a leopard print design with a bunch of stuffed animals on top."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000242537.jpg",
+    "caption": "There are two boards on the ground, there is also a man with a jacket on ."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000425243.jpg",
+    "caption": "Looking into a shower with beige tile, mirror and sink in front of door."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000014034.jpg",
+    "caption": "The are two bananas, the brand of them are dole."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000149791.jpg",
+    "caption": "There is a bathtub, sink, and mirror visible in this picture of a bathroom interior."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000413984.jpg",
+    "caption": "An orderly kitchen area utilizes bold red walls, glass front cabinet doors and up to date stainless appliances."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000055276.jpg",
+    "caption": "Two men in yellow, one trying on a very strange hat."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000275206.jpg",
+    "caption": "A sidewalk and street with a bus, a bike, and other vehicles."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000108254.jpg",
+    "caption": "An elegant bathroom has a light up mirror, marble counter tops and dual sinks."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000026069.jpg",
+    "caption": "A bathroom with white sink, toilet, mirror, vanity, tiled floors, and shower stall."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000052929.jpg",
+    "caption": "people standing around a table covered with plates, a cake and some ice cream"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000417203.jpg",
+    "caption": "A white bathroom with toilet, sink and mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000292570.jpg",
+    "caption": "A basic bathroom with a shower, sink and toilet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000026260.jpg",
+    "caption": "Woman with tattoed arm slicing food, making dinner at counter."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000241188.jpg",
+    "caption": "A kitchen view with a double door fridge, cabinets, and an oven."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000208189.jpg",
+    "caption": "A lady is standing in the rain, possibly looking off to the road."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000277848.jpg",
+    "caption": "A bowl of bacon, spinach, tomatoes and cheese being put into empanadas."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000460791.jpg",
+    "caption": "A clean bathroom includes a toilet, painting, sink and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000383616.jpg",
+    "caption": "A kitchen with a stove, microwave and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000383564.jpg",
+    "caption": "A lady walks down the sidewalk, as a man stands under an awning, nearby to a bike parked in front of a lamppost on a city street."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000143965.jpg",
+    "caption": "A living space that has a brown couch, coffee table, fireplace, wood floors and tables and chairs is well lit by various lamps."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000475932.jpg",
+    "caption": "Two men, one with red hair, sit on an old wooden bench."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000026190.jpg",
+    "caption": "A tile bathroom with a toilet, cabinet, sink, mirror, tub, shower curtain, and towel is shown."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000167642.jpg",
+    "caption": "A granite counter top with a sink is centered in a kitchen with a stove, cabinets, microwave, and a framed vintage advertisement for bicycles on the wall in the background."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000500273.jpg",
+    "caption": "A bathroom sink with several toiletries, large vanity mirror, lights, and two floral decorations on the wall."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000522312.jpg",
+    "caption": "A tile floor kitchen has two refrigerators, a sink, cabinets, a mat, and window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000090961.jpg",
+    "caption": "A large kitchen with an oven, stove top and a microwave."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000046068.jpg",
+    "caption": "a toy ,with a dog riding a bike"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000179620.jpg",
+    "caption": "There is a toilet with a picture above it, there are four rolls of tissue."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000001355.jpg",
+    "caption": "a kitchen with a center isle stove, and stainless steel refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000514280.jpg",
+    "caption": "A bathroom painted yellow with a white toilet, shower and a sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000434127.jpg",
+    "caption": "A kitchen with a chrome sink, wood cabinets and a marble countertop."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000233975.jpg",
+    "caption": "A Bathroom with a toilet, sink, and records on the wall."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000368775.jpg",
+    "caption": "A man wearing a suit with no shirt, walking on a city street pulling a roller bag."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000310435.jpg",
+    "caption": "bathroom with toilet, a sink, and a bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000151573.jpg",
+    "caption": "Bathroom with tile floor, sink, bathtub, and toliet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000258006.jpg",
+    "caption": "A very brown, shining dining room holds a table with 6 light teal chairs."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000243820.jpg",
+    "caption": "A dark kitchen illuminated with an over-sink light, showing the counter ."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000325073.jpg",
+    "caption": "Interior bathroom showing shower curtains, towels, and sunlit window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000074964.jpg",
+    "caption": "The counter next to the stove is littered with dishes, one with a load of good food on it."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000549626.jpg",
+    "caption": "An old wooden table has utensils, pots, and pans on it."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000390996.jpg",
+    "caption": "A white bathroom with toilet, tub, sink, and windows."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000075811.jpg",
+    "caption": "Bathroom scene brown tone, shower area, tissue stand and storage area."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000463844.jpg",
+    "caption": "Kitchen scene, looking like a model home, stove/oven, dining nook table."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000005335.jpg",
+    "caption": "A very white, well organized bathroom also has a washer tucked beneath storage shelves."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000028914.jpg",
+    "caption": "a bathroom with two sinks, soap dispensers and a big mirror"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000018394.jpg",
+    "caption": "A close up of a black cat looking upward, away from the camera"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000422294.jpg",
+    "caption": "In a forest, a woman holds an umbrella"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000265128.jpg",
+    "caption": "In a sink's eye view, a man brushes his teeth with an electric toothbrush."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000554066.jpg",
+    "caption": "A stove, refrigerator, microwave, and sink in a kitchen."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000566489.jpg",
+    "caption": "A bathroom scene with a toilet, sink, and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000090103.jpg",
+    "caption": "Street image of bicycles, probably somewhere in Europe."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000280787.jpg",
+    "caption": "A kitchen with an island which includes a dishwasher, a stove, cabinets, a vent and two windows."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000059335.jpg",
+    "caption": "a bathroom with shower, toilet, and sink with shelves"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000387153.jpg",
+    "caption": "An overview of a kitchen with cabinets, stove and microwave."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000197624.jpg",
+    "caption": "An all white bathroom containing a sink, toilet and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000258659.jpg",
+    "caption": "A small bathroom with toilet, sink, bathtub, and colorful accessories."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000399154.jpg",
+    "caption": "A bathroom with walk-in shower, mirror and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000226691.jpg",
+    "caption": "A light colored countertop with a sink, dishwasher, oven, and stove."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000212786.jpg",
+    "caption": "Home scene of stairwell and bathroom, shower curtain and partial toilet seat visible."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000118173.jpg",
+    "caption": "A green bathroom viewed from the entryway, showing a vanity on one side; tub on the other."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000116393.jpg",
+    "caption": "A commercial granite vanity with multiple sinks, soap dispensers and lighted mirrors."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000539966.jpg",
+    "caption": "A person walking near a large building in the rain, holding an umbrella."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000329235.jpg",
+    "caption": "Bathroom scene of pedestal sink, mirror and overhead window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000344238.jpg",
+    "caption": "A door is open to reveal a mid-sized bathroom with a dark, wood cabinet with a granite surface and a bathtub with a curtained window above it."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000214250.jpg",
+    "caption": "A glass of wine, a pepper mill, and oil and vinegar cruets are sitting on the counter."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000485169.jpg",
+    "caption": "A clean bathroom features folded towels, a toilet and a sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000555910.jpg",
+    "caption": "Kitchen stove, sink and shelf over the stove."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000509247.jpg",
+    "caption": "A room during construction or remodeling, with exposed insulation, 2x4's, and a worker's toolbox."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000241821.jpg",
+    "caption": "A bathroom with a sink, a mirror, and the image of a toilet in the mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000136200.jpg",
+    "caption": "Two women are smiling and cooking in a kitchen filled with a counter full of vegetables, potatoes and meat, one is holding a spoon of green beans."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000480683.jpg",
+    "caption": "The kitchen has wooden cupboards, plenty of counter space, and a sink adjacent to the oven."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000277810.jpg",
+    "caption": "Small bathroom with a toilet, sink, shower, and mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000351164.jpg",
+    "caption": "dilapidated, dirty bathroom with mold and water damage"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000085452.jpg",
+    "caption": "A microwave oven with its door open, sits on the bathroom floor next to the commode."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000330922.jpg",
+    "caption": "A person with a bike and a dog on a leash, boarding a train."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000553984.jpg",
+    "caption": "Toilet, pedestal sink and shower with blue trash can."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000212903.jpg",
+    "caption": "a woman sitting on a horse,in a open field."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000348277.jpg",
+    "caption": "Several antiques, including bike and a clock, hang on a wall."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000071657.jpg",
+    "caption": "A cramped airplane restroom, with the Golden Gate Bridge visible through the window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000323149.jpg",
+    "caption": "A bicycle is covered with ribbons, lights and decorations and is parked on a street."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000258362.jpg",
+    "caption": "A clean empty bathroom with a chalkboard, trash can and toilet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000036726.jpg",
+    "caption": "A room decorated in white contains a bed, mirror, and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000349263.jpg",
+    "caption": "A narrow kitchen with brown cabinets, sink and refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000372292.jpg",
+    "caption": "Motorcycle slim hog, with chrome, parked in garage."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000277746.jpg",
+    "caption": "A woman reflected in the mirror of a large, multi-person bathroom."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000121222.jpg",
+    "caption": "A surfer in the ocean, riding a wave to the shore."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000056753.jpg",
+    "caption": "A kitchen with green walls, and a cluttered counter."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000292921.jpg",
+    "caption": "A bathroom scene complete with a toilet, shower and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000346699.jpg",
+    "caption": "A bathroom with a toilet, sink and a shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000554040.jpg",
+    "caption": "A small bathroom scene depicts a commode, free-standing sink and bathtub with colorful shower curtain."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000287723.jpg",
+    "caption": "A man looks at his laptop, as his wife has a cup of coffee."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000306031.jpg",
+    "caption": "An empty bathroom with sink, toilet, medicine cabinet and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000352233.jpg",
+    "caption": "The view of a tiled bathroom containing a toilet, a bidet, a tub and a sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000107249.jpg",
+    "caption": "The sink, toilet, and shower are close together in the small bathroom."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000573232.jpg",
+    "caption": "The bathroom door is ajar, and the toilet and tiled floor are in view."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000130598.jpg",
+    "caption": "A very nice, modern bathroom with toitet, sink and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000361638.jpg",
+    "caption": "A clean bathroom with sink, mirror, toilet and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000311354.jpg",
+    "caption": "A bathroom, with toilet, shower and sink, sits with the lights on."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000156073.jpg",
+    "caption": "A kitchen complete with a refrigerator, dishwasher and a sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000261298.jpg",
+    "caption": "A person sits in an easy chair using a cell phone, background appears to possibly be a hair or nail salon."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000277096.jpg",
+    "caption": "A kitchen area features a silver refrigerator, stove and counters on dark, wood flooring."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000278860.jpg",
+    "caption": "Kitchen counter scene showing wood cabinets, knife set and a coffee maker."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000559639.jpg",
+    "caption": "A room with a laptop, microwave, and several wine glasses."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000543877.jpg",
+    "caption": "A bathroom features white, bowl sinks and a bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000141200.jpg",
+    "caption": "A woman, under an umbrella, walking in the rain."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000207686.jpg",
+    "caption": "A bathroom complete with a toilet, sink and window"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000409877.jpg",
+    "caption": "Winter scene, close to white out conditions, man in heavy dark green jacket and cap, near tent and skiing equipment."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000381275.jpg",
+    "caption": "A bathroom complete with a toilet, sink and bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000125821.jpg",
+    "caption": "A small kitchen with a refrigerator, microwave, and dishwasher."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000403028.jpg",
+    "caption": "A kitchen with a sink on one side and a refrigerator, stove, microwave, and oven on the other side."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000172398.jpg",
+    "caption": "A bathroom complete with a sink, toilet and a bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000236314.jpg",
+    "caption": "Legs of man with tattoos, standing on towel with cat, in bathroom."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000246852.jpg",
+    "caption": "A table set out with books, papers, and bowls,"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000111447.jpg",
+    "caption": "A man is playfully sitting on a toilet in a room being renovated,"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000406368.jpg",
+    "caption": "A beet that is chopped in half, on a chopping board with a knife."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000139152.jpg",
+    "caption": "A gray and black raven sits on top of the car, looking as if he could talk if he wanted to."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000518853.jpg",
+    "caption": "A lady at an intersection on her bicycle, waiting for the traffic light to change"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000378558.jpg",
+    "caption": "A bathroom showing the top of a toilet tank, sink and mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000002664.jpg",
+    "caption": "LOTS OF BICYCLES AND PEOPLE, WITH A CHASE LOUNGE ON ONE."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000548711.jpg",
+    "caption": "Woman in wet suit holding tri-fin white surfboard with green trim, in surf, ocean to her back, good sun light."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000149079.jpg",
+    "caption": "A clean, small, white bathroom with a window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000450666.jpg",
+    "caption": "A view of a city intersection with cars, transit buses, and pedestrians"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000065247.jpg",
+    "caption": "A toilet, sink and first aid kit in a bathroom."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000228435.jpg",
+    "caption": "A bathroom sink topped with soap, cosmetics and a hairbrush."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000514881.jpg",
+    "caption": "A kitchen containing cabinets, a counter, and a refrigerator"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000059471.jpg",
+    "caption": "A kitchen area with a sink, stove, white cabinets and a door and window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000471790.jpg",
+    "caption": "recreational vehicle kitchen with sink, oven and dishwasher."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000495957.jpg",
+    "caption": "Small bathroom with a small sink, toilet, and glass shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000288547.jpg",
+    "caption": "Some cars at a traffic light, one with a red sticker on the back"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000492040.jpg",
+    "caption": "TWO WOMEN SITTING AT THE KITCHEN BAR, WHILE A MAN IS COOKING"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000356479.jpg",
+    "caption": "A restroom wtih green bath tub, lavatory and mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000471851.jpg",
+    "caption": "Kitchen with brown cabinets, green counter tops and a washing machine."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000407289.jpg",
+    "caption": "A kitchen scene complete with an oven, microwave and a sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000488941.jpg",
+    "caption": "A restroom scene with a urinal, toilet and a painted mural."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000018316.jpg",
+    "caption": "A kitchen scene complete with an oven, sink and a dining room table."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000045059.jpg",
+    "caption": "blurry shot of a city at night with pedestrians, bikers and a bus"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000170308.jpg",
+    "caption": "An interior room with a white door, wooden shelf and window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000534040.jpg",
+    "caption": "A fully tiled bathroom with a bathtub and bowl type sink, and a wooden framed mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000117784.jpg",
+    "caption": "A household kitchen with sink refrigerator, and dining table"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000475645.jpg",
+    "caption": "Combined kitchen and living room with stools, table and chairs, and AV setup."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000301888.jpg",
+    "caption": "A small bathroom with a yellow toilet, sink area and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000581392.jpg",
+    "caption": "A bathroom with a white toilet and shower head sprayer attached above, along with rolls or toilet paper on a towel rack."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000378461.jpg",
+    "caption": "A kitchen with light colored wood cabinets, a black dishwasher and a sink in front or a window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000403325.jpg",
+    "caption": "A spotless kitchen has a stove, utensils, and a microwave."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000452905.jpg",
+    "caption": "PERSON RIDING IN CROSS COUNTRY GEAR, DRINKING WHILE RIDING"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000321209.jpg",
+    "caption": "LOTS OF MEN ALL DRESSED UP, MOST SITTING ON BENCHES"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000148635.jpg",
+    "caption": "A worn, brown case sits behind someones legs on a tiled floor"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000168992.jpg",
+    "caption": "A man smokes, standing by two tilling horses on a farm."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000061936.jpg",
+    "caption": "A bathroom has patterned walls, a urinal, and a toilet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000145129.jpg",
+    "caption": "The front of a bicycle with a carrying unit attached that has a bag, a box and a piece of furniture with three books on it."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000511789.jpg",
+    "caption": "A woman making cupcakes in a kitchen, with a young child watching in the corner of the picture."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000420506.jpg",
+    "caption": "A bare white, undecorated bathroom with tub, toilet, and window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000580431.jpg",
+    "caption": "a bathroom with a window, sink and toilet"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000186196.jpg",
+    "caption": "A man stands at a street corner, holding some groceries."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000311771.jpg",
+    "caption": "A clean bathroom with mirror, bathtub, windows and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000246156.jpg",
+    "caption": "A silver bicycle stands next to a brick wall and supports a brown, wooden crate."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000565788.jpg",
+    "caption": "A bathroom with two sinks, a mirror over the sink, and a bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000382261.jpg",
+    "caption": "A large kitchen with a refrigerator, range, dishwasher, and microwave."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000110484.jpg",
+    "caption": "A modern white kitchen with an electric stove, sink and other items on the cabinets."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000119276.jpg",
+    "caption": "A small, modest kitchen is illuminated by an overhead lamp."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000108598.jpg",
+    "caption": "A bathroom scene complete with a toilet, sink, and bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000532131.jpg",
+    "caption": "A coffee pot, tea kettle and microwave are on the countertop."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000539026.jpg",
+    "caption": "A small, cramped bathroom with women's sandals and accessories."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000466378.jpg",
+    "caption": "A compost can containing egg shells, coffee grounds, and banana peels."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000302511.jpg",
+    "caption": "A modern kitchen with a sink, fridge, and table."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000286700.jpg",
+    "caption": "a bathroom with a white sink, a tub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000142485.jpg",
+    "caption": "computer generated image of a sink, toilet, and bathtub in a bathroom"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000272072.jpg",
+    "caption": "a bathroom with tiled walls, a shower, and a tub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000265432.jpg",
+    "caption": "a bathroom with open drawers, a full counter and a sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000371705.jpg",
+    "caption": "A room with wooden beams across the ceiling, a bed met on the floor and a glass wall seperating the room."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000043011.jpg",
+    "caption": "A bathroom with a sink, toilet, and bathtub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000475527.jpg",
+    "caption": "Three people sitting in a room, one of them on the phone."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000549725.jpg",
+    "caption": "The kitchen is large, and is very tidy."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000164348.jpg",
+    "caption": "A living room with a bicycle, television, and coffee table."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000281763.jpg",
+    "caption": "An apartment bathroom with toilet, shower and commode."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000215738.jpg",
+    "caption": "On a wide street are people walking, on bikes, or in trucks."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000363940.jpg",
+    "caption": "ted, a guy, and girl sitting on a couch drinking."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000017301.jpg",
+    "caption": "Bathroom with sink, toilet, washing machine and partial bathtub view."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000285998.jpg",
+    "caption": "A kitchen, including a table, oven and cabinets."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000271604.jpg",
+    "caption": "A modernist kitchen, with a white and aluminum color theme."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000174876.jpg",
+    "caption": "Two people in a kitchen area, standing next to the counter."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000479202.jpg",
+    "caption": "A photograph of a white sink in a stone vanity, with a mirror above."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000124311.jpg",
+    "caption": "Two beds in a tiled room, both with lime green bedspreads."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000448648.jpg",
+    "caption": "A pedi-cab, scooters and cars on a street."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000385426.jpg",
+    "caption": "A bathroom with a large circular mirror above a large vanity sink, with a shower and tub to the side of it."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000335380.jpg",
+    "caption": "A toilet, sink, and tub are reflected in a bathroom mirror."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000357865.jpg",
+    "caption": "A small bathroom has towels, rugs, and a gray floor."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000106964.jpg",
+    "caption": "A restaurant grill, littered with barbecue sauces, stands empty."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000183068.jpg",
+    "caption": "A group of people gather on a road, some on bikes, some with cars, some on foot."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000332202.jpg",
+    "caption": "A somewhat disorganized looking kitchen with old, wooden flooring."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000155937.jpg",
+    "caption": "An empty efficiency kitchen includes a table with chairs, a refrigerator, a coffee maker and a wide window."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000153655.jpg",
+    "caption": "A park with trees, bushes, walkways and benches in front of a skyline of buildings."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000229142.jpg",
+    "caption": "Various kitchen appliances including a stove, refrigerator and microwave."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000455342.jpg",
+    "caption": "shot of bathroom that includes a sink, toilet and bundle of towels."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000324764.jpg",
+    "caption": "An empty modern family kitchen includes a stove, a dishwasher, a sink and a refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000578276.jpg",
+    "caption": "A bathroom with white tile flooring and a backsplash, and floral designed wall paper at the top of the walls."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000451033.jpg",
+    "caption": "A kitchen with an door bathroom, wooden tables, and no one is present."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000571848.jpg",
+    "caption": "Two people are sharing a motorcycle, driving with an umbrella in the rain."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000483357.jpg",
+    "caption": "An empty clean bathroom with a tiled floor, bathtub and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000526104.jpg",
+    "caption": "A decrepit bathroom with rusted bathtub, radiator and tattered hangings."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000225363.jpg",
+    "caption": "A kitchen with a double sink, green cabinets and stainless steel appliances."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000471686.jpg",
+    "caption": "A bearded man sits at his kitchen table by the window in the background; in the foreground is a small, cluttered kitchen that has a washing machine installed beneath the sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000435218.jpg",
+    "caption": "A white and silver kitchen with stove, dishwasher, and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000475316.jpg",
+    "caption": "A kitchen and dining area with wood floors and wood cabinets, with no seperating wall for the two areas."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000521107.jpg",
+    "caption": "A dimly lit clean bathroom featuring a toilet, mirror and counter"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000416281.jpg",
+    "caption": "A vintage-styled attic bathroom is painted a great shade of green, and has a claw-foot tub."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000200206.jpg",
+    "caption": "An break-room with a sink, hot plate and microwave."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000457087.jpg",
+    "caption": "Kitchen scene, white tones, electric stove/oven, dish washer, sink cabinets.."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000203926.jpg",
+    "caption": "The American Dream: House, Skis, Wife, Dog, Boat"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000388740.jpg",
+    "caption": "Two people in a small, old fashioned kitchen."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000414258.jpg",
+    "caption": "We see a close up view of a peeled, half eaten banana."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000463739.jpg",
+    "caption": "An apartment kitchen with a fridge, window and dining room table."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000106902.jpg",
+    "caption": "A white kitchen with a range, dishwasher, and fridge."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000272385.jpg",
+    "caption": "A bathroom with floral wallpaper, a vanity mirror and sink."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000481648.jpg",
+    "caption": "A kitchen contains several appliances, including one on top of a fold-out table."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000222829.jpg",
+    "caption": "A small, old bathroom with a claw-foot tub"
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000256550.jpg",
+    "caption": "A man is sitting, fully clothes on a toilet with a lap top."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000195927.jpg",
+    "caption": "A kitchen with a small stove, a sink with two faucets extending from the wall and yellow painted walls and cabinets."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000268151.jpg",
+    "caption": "A very sleek, clean and dark modern kitchen."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000357641.jpg",
+    "caption": "A very plain, cookie cutter bathroom with double sinks."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000501966.jpg",
+    "caption": "A kitchen scene complete with a microwave, oven and a refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000348478.jpg",
+    "caption": "A kitchen scene showing a stove, oven, and counters."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000229525.jpg",
+    "caption": "A bathroom with a shower stall, sink, and the door open."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000502116.jpg",
+    "caption": "Two cops on horseback on a city street, with cars backed up behind them."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000242116.jpg",
+    "caption": "A kitchen with an old-fashioned stove, and many toasters on the floor."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000543447.jpg",
+    "caption": "A modern kitchen complete with a sink, oven, range and a refrigerator."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000342353.jpg",
+    "caption": "A chef teaching two students, who are cutting cucumbers."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000172899.jpg",
+    "caption": "A bathroom scene complete with a tab, sink and toilet."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000523055.jpg",
+    "caption": "A kitchen sink complete with a table, sink and a microwave."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000149327.jpg",
+    "caption": "People gathered outside as if on street street side restaurant, common to a European style city."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000478645.jpg",
+    "caption": "A white bathroom with toilet, sink, and shower."
+  },
+  {
+    "image_path": "coco_pairs\\images\\COCO_train2014_000000362739.jpg",
+    "caption": "A street with a red and white bus, a person on a bicycle and a person riding a motor bike on the street."
+  }
+]
