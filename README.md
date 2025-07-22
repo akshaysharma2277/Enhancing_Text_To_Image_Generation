@@ -1,5 +1,5 @@
-# Enhancing_Text_To_Image_Generation
-Enhancing_Text_to_Image_Generation_via_Prompt_Expansion_with_Multimodal_Language_Models
+# Enhancing Text To Image_Generation
+    This project, centered on Natural Language Processing (NLP), was undertaken as part of my M.Tech Major Technical Project (MTP) at IIT Bhubaneswar, under the guidance of Dr. Manoranjan Satpathy and Dr. Abhik Jana.
 
 # Dataset Source: Text–Image Pairs for Prompt Expansion (Below are downloadable open-source-data links for image data)
 
