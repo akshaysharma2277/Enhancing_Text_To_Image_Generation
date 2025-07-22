@@ -1,7 +1,7 @@
 # Enhancing_Text_To_Image_Generation
 Enhancing_Text_to_Image_Generation_via_Prompt_Expansion_with_Multimodal_Language_Models
 
-# Dataset Source: Text–Image Pairs for Prompt Expansion (Final data file is in the code, below are downloadable orignal sourc links for data)
+# Dataset Source: Text–Image Pairs for Prompt Expansion (Below are downloadable open-source-data links for image data)
 
 This dataset is used for the research project titled: **"Enhancing Text-to-Image Generation via Prompt Expansion with Multimodal Language Models"**
 
@@ -34,6 +34,10 @@ Download **only the annotations ZIP**:
 
 - 📥 Option 2: Scrape from [https://www.wikiart.org/](https://www.wikiart.org/) using tags: `Nature`,  `Urban Architecture`,
 `Sci-Fi`,  `Fantasy`, `Historical`, `Abstract`, `Artistic`, `Wildlife`, `Everyday Life`, `Emotions`
+
+### 4. Data Split 
+    90% Training = 1,255 pairs
+    10% Validation = 140 pairs
 
 Code and other source files uploading soon ......
 
